@@ -6,7 +6,7 @@
 
 接著把我們原本做好的網頁檔案都複製到github的資料夾中
 
-![](.gitbook/assets/image%20%2853%29.png)
+![](.gitbook/assets/image%20%2869%29.png)
 
 你會看到左手邊的changed files ，你的網頁都進來了，數量就是你的網頁有幾個檔案。
 
@@ -30,7 +30,7 @@ Keep this code private 取消勾選就是公開網頁，接著點擊Publish repo
 
 圈圈會開始轉動，表示開始上傳
 
-![](.gitbook/assets/image%20%2869%29.png)
+![](.gitbook/assets/image%20%2870%29.png)
 
 可以上去github 看看是否有上傳成功
 

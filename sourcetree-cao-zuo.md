@@ -85,7 +85,7 @@ SourceTree的Unstaged　files區域，就是我們還沒Push上去的檔案，�
 
 修正錯誤到Tool 底下的Options，發現我的名稱多了空格，取消空格後按OK，就可以Commit了
 
-![](.gitbook/assets/image%20%2871%29.png)
+![](.gitbook/assets/image%20%2872%29.png)
 
 ![](.gitbook/assets/tree11.jpg)
 

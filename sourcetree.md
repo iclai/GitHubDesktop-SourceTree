@@ -22,7 +22,7 @@ Registration 註冊
 
 那我們就使用Google帳號來綁定
 
-![](.gitbook/assets/image%20%2873%29.png)
+![](.gitbook/assets/image%20%2874%29.png)
 
 點擊 Bitbuket ，會開啟網頁，要你註冊Atassian Bitbucket 帳號頁面，可以直接選擇Google登入，登入後因為我們不曾在Atassian Bitbucket註冊過，他還是會要求你的Google帳號要登入它們的Bitbucket Cloud 雲端，做綁定的動作。
 
